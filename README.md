@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-👨‍💻 My name is Salih, I'm a passionate Fullstack Software Engineer with over +7 years of experience, specializing in both Front-end and Back-end development. My expertise spans across a wide range of programming languages and technologies, with a strong focus on delivering efficient and high-quality solutions.
+👨‍💻 I'm a passionate Fullstack Software Engineer with over +7 years of experience, specializing in both Front-end and Back-end development. My expertise spans across a wide range of programming languages and technologies, with a strong focus on delivering efficient and high-quality solutions.
 
 ## 🛠️ Tech Stack
 - **Languages:** C#, .Net, Python, VB, VB 6.0, SQL, MySQL, MsSQL, Delphi, ASP (Classic), HTML, PHP
