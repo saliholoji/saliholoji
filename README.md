@@ -16,7 +16,7 @@
 ## 🏅 Certifications
 - **Object-Oriented Programming - C# Development**, Istanbul Şişli Vocational School
 - **Database Management - SQL Development**, Istanbul Şişli Vocational School
-- **Visual Programming**, Istanbul Şişli Vocational School
+- **Visual Programming - Delphi, C#, Pascal, .Net**, Istanbul Şişli Vocational School
 
 ## 📫 Get in Touch
 - **Web Site:** [wwww.salihuysal.com](https://www.salihuysal.com)
